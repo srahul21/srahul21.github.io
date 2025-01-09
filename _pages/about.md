@@ -10,7 +10,7 @@ redirect_from:
 I am ..... 
 
 Few glimpses from my origin...
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/IMG_20250109_153007_451.jpg)
 
 ```
 
