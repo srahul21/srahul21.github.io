@@ -9,6 +9,9 @@ redirect_from:
 
 I am ..... 
 
+Few glimpses from my origin...
+======
+
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <!-- Indicators -->
   <div class="carousel-indicators">
@@ -22,22 +25,22 @@ I am .....
     <div class="carousel-item active">
       <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Slide 1">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Life Time Achievement Awardee 2024</h5>
-        <p>Dr. Biswanath Chatterjee - Academic Dean</p>
+        <h5>Blue is beautiful</h5>
+        <p>Mukutmanipur</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/IMG_20250109_153012_804.jpg" class="d-block w-100" alt="Slide 2">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Another Slide</h5>
-        <p>Description for the second slide goes here.</p>
+        <h5>Green soothes the soul</h5>
+        <p>Mukutmanipur</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/IMG_20250109_153016_588.jpg" class="d-block w-100" alt="Slide 3">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third Slide</h5>
-        <p>Description for the third slide goes here.</p>
+        <h5>Scattering light</h5>
+        <p>Mukutmanipur</p>
       </div>
     </div>
   </div>
@@ -53,9 +56,6 @@ I am .....
   </button>
 </div>
 
-
-Few glimpses from my origin...
-![Editing a markdown file for a talk](/images/IMG_20250109_153007_451.jpg)
 
 ```
 
