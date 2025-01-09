@@ -9,6 +9,35 @@ redirect_from:
 
 I am ..... 
 
+<!-- Carousel -->
+<div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Image 1">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/IMG_20250109_153012_804.jpg" class="d-block w-100" alt="Image 2">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/IMG_20250109_153016_588.jpg" class="d-block w-100" alt="Image 3">
+    </div>
+     <div class="carousel-item">
+      <img src="/images/IMG_20250109_153020_507.jpg" class="d-block w-100" alt="Image 3">
+    </div>
+     <div class="carousel-item">
+      <img src="/images/IMG_20250109_153027_101.jpg" class="d-block w-100" alt="Image 3">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#imageCarousel" role="button" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#imageCarousel" role="button" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>
+
 Few glimpses from my origin...
 ![Editing a markdown file for a talk](/images/IMG_20250109_153007_451.jpg)
 
