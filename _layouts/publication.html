@@ -44,16 +44,18 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text" style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+      
+      <section class="page__content" itemprop="text" style="overflow: hidden;">
   <!-- Image Section -->
   {% if page.image %}
-    <div style="flex: 0 0 66.66%; max-width: 66.66%; margin-bottom: 20px;">
+    <div style="float: left; width: 66.66%; margin: 0 20px 20px 0;">
       <img src="{{ page.image | relative_url }}" alt="Article Image" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     </div>
   {% endif %}
 
   <!-- Text Section -->
-  <div style="flex: 1; max-width: 33.33%; text-align: justify;">
+  <div style="overflow: hidden; text-align: justify;">
     {{ content }}
 
     {% if page.citation and page.paperurl and page.slidesurl %}
@@ -75,6 +77,7 @@ layout: default
     {% endif %}
   </div>
 </section>
+
 
 
 
