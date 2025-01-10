@@ -7,7 +7,7 @@ year: 2021
 image: '/images/ange202011977-fig-0001-m.jpg' # Path to the article image
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 venue: 'Journal 1'
-paperurl: '[Link to the article](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202011977)'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202011977'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
