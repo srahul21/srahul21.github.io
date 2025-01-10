@@ -6,7 +6,6 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 year: 2021
 image: '/images/ange202011977-fig-0001-m.jpg' # Path to the article image
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202011977'
 ---
 
