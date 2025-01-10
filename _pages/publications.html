@@ -6,31 +6,38 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
+<!-- Loop through all publication categories -->
+{% for category in site.publication_category %}
+  <h2>{{ category[1].title }}</h2> <!-- Category Title -->
 
-<!-- Group manuscripts (Journal Articles) by year -->
-{% assign journal_articles_by_year = site.publications | where: "category", "manuscripts" | group_by: "year" %}
-{% for group in journal_articles_by_year reversed %}
-  <h2>{{ group.name }}</h2> <!-- Year Heading -->
-  <ul>
-    {% for post in group.items %}
-      <li>
-        <a href="{{ post.permalink }}">{{ post.venue }}</a> <!-- Journal Title Linked to Detail Page -->
-      </li>
+  {% if category[0] == "manuscripts" %}
+    <!-- Group Journal Articles by Year -->
+    {% assign journal_articles_by_year = site.publications | where: "category", "manuscripts" | group_by: "year" %}
+    {% for group in journal_articles_by_year reversed %}
+      <h3>{{ group.name }}</h3> <!-- Year Heading -->
+      <ul>
+        {% for post in group.items %}
+          <li>
+            <a href="{{ post.permalink }}">{{ post.venue }}</a> <!-- Journal Title Linked to Detail Page -->
+          </li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-  </ul>
-{% endfor %}
-
-{% else %}
-    <!-- Other categories remain unchanged -->
-    {% for post in site.publications reversed %}
-      {% if post.category == category[0] %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
+  {% else %}
+    <!-- Render other categories (Books, Conference Papers, etc.) -->
+    <ul>
+      {% for post in site.publications reversed %}
+        {% if post.category == category[0] %}
+          <li>
+            <a href="{{ post.permalink }}">{{ post.title }}</a> <!-- Title Linked to Detail Page -->
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   {% endif %}
 {% endfor %}
