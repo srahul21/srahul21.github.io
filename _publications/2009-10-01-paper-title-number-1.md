@@ -1,6 +1,5 @@
 ---
 title: "Supramolecular Depolymerization in the Mixture of Two Poor Solvents: Mechanistic Insights and Modulation of Supramolecular Polymerization of Ionic π-Systems"
-layout: publication
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
