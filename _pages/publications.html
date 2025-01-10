@@ -25,4 +25,12 @@ author_profile: true
   </ul>
 {% endfor %}
 
-
+{% else %}
+    <!-- Other categories remain unchanged -->
+    {% for post in site.publications reversed %}
+      {% if post.category == category[0] %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
