@@ -1,5 +1,5 @@
 ---
-title: "S. H. Goudar, D. S. Ingle, R. Sahu, S. Kotha, S. K. Reddy, D. J. Babu, V. R. Kotagiri, Perylene Diimide-Containing dynamic hyper-crosslinked ionic porous organic polymers: modulation of assembly and gas storage. <i>ACS Applied Polymer Materials</i> 5, 2097–2104 (2023)."
+title: "S. H. Goudar, D. S. Ingle, R. Sahu, S. Kotha, S. K. Reddy, D. J. Babu, K. V. Rao, Perylene Diimide-Containing dynamic hyper-crosslinked ionic porous organic polymers: modulation of assembly and gas storage. <i>ACS Applied Polymer Materials</i> 5, 2097–2104 (2023)."
 display_title: "Perylene Diimide-Containing Dynamic Hyper-crosslinked Ionic Porous Organic Polymers: Modulation of Assembly and Gas Storage"
 collection: publications
 category: manuscripts
