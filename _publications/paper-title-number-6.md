@@ -1,5 +1,5 @@
 ---
-title: "S. Kotha, R. Sahu, A. C. Yadav, K. K. Bejagam, S. K. Reddy, K. V. Rao, Pathway Selection in Temporal Evolution of Supramolecular Polymers of Ionic π‐systems: Amphiphilic Organic Solvent Dictates the Fate of Water. <i>Chemistry - a European Journal</i> 30 (2024)."
+title: "S. Kotha<sup>&dagger;</sup>, R. Sahu<sup>&dagger;</sup>, A. C. Yadav, K. K. Bejagam, S. K. Reddy, K. V. Rao, Pathway Selection in Temporal Evolution of Supramolecular Polymers of Ionic π‐systems: Amphiphilic Organic Solvent Dictates the Fate of Water. <i>Chemistry - a European Journal</i> 30 (2024). (&dagger; = Equal contribution)"
 display_title: "Pathway Selection in Temporal Evolution of Supramolecular Polymers of Ionic &pi;-Systems: Amphiphilic Organic Solvent Dictates the Fate of Water"
 collection: publications
 category: manuscripts
