@@ -23,21 +23,21 @@ Few glimpses from my origin...
   <!-- Images for the Carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Slide 1">
+      <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Slide 1" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
         <h5>Blue is beautiful</h5>
         <p>Mukutmanipur</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/IMG_20250109_153012_804.jpg" class="d-block w-100" alt="Slide 2">
+      <img src="/images/IMG_20250109_153012_804.jpg" class="d-block w-100" alt="Slide 2" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
         <h5>Green soothes the soul</h5>
         <p>Mukutmanipur</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/IMG_20250109_153016_588.jpg" class="d-block w-100" alt="Slide 3">
+      <img src="/images/IMG_20250109_153016_588.jpg" class="d-block w-100" alt="Slide 3" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
         <h5>Scattering light</h5>
         <p>Mukutmanipur</p>
