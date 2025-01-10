@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
@@ -23,7 +25,7 @@ author_profile: true
       <ul>
         {% for post in group.items %}
           <li>
-            <a href="{{ post.permalink }}">{{ post.title }}</a> <!-- Journal Title Linked to Detail Page -->
+            <a href="{{ post.permalink }}">{{ post.title }}</a> <!-- Article Title Linked to Detail Page -->
           </li>
         {% endfor %}
       </ul>
