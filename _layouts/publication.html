@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  <p><strong>Published in:</strong> {{ page.venue }}</p>
+  <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+  
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="Article Image" style="width:100%; max-width:600px; margin-bottom:20px;">
+  {% endif %}
+
+  <p>{{ page.excerpt }}</p>
+
+  <div class="publication-content">
+    {{ content }}
+  </div>
+
+  <h3>Citation</h3>
+  <p>{{ page.citation | markdownify }}</p>
+
+  <h3>Links</h3>
+  <ul>
+    {% if page.paperurl %}
+      <li><a href="{{ page.paperurl }}" target="_blank">Read the Paper</a></li>
+    {% endif %}
+    {% if page.slidesurl %}
+      <li><a href="{{ page.slidesurl }}" target="_blank">View Slides</a></li>
+    {% endif %}
+  </ul>
+</article>
