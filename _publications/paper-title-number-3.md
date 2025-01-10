@@ -1,10 +1,10 @@
 ---
-title: "S. Kotha, R. Sahu, D. Srideep, S. S. R. K. C. Yamijala, S. K. Reddy, K. V. Rao, Cooperative supramolecular polymerization guided by dispersive interactions. <i>Chemistry - an Asian Journal</i> 17 (2022)."
+title: "S. Kotha<sup>&dagger;</sup>, R. Sahu<sup>&dagger;</sup>, D. Srideep, S. S. R. K. C. Yamijala, S. K. Reddy, K. V. Rao, Cooperative supramolecular polymerization guided by dispersive interactions. <i>Chemistry - an Asian Journal</i> 17 (2022). (&dagger; = Equal contribution)"
 display_title: "Cooperative Supramolecular Polymerization Guided by Dispersive Interactions"
 collection: publications
 category: manuscripts
 permalink: /publication/paper-title-number-3
-year: 2023
+year: 2022
 image: '/images/asia202200494-fig-0006-m.jpg' # Path to the article image
 paperurl: 'https://aces.onlinelibrary.wiley.com/doi/full/10.1002/asia.202200494'
 ---
