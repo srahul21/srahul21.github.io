@@ -46,18 +46,17 @@ layout: default
         </header>
       {% endunless %}
 
-
       
-      <section class="page__content" itemprop="text" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<section class="page__content" itemprop="text" style="overflow: hidden;">
   <!-- Image Section -->
   {% if page.image %}
-    <div style="flex: 0 0 50%; max-width: 50%; margin-bottom: 10px;">
+    <div style="float: left; width: 40%; margin: 0 15px 15px 0;">
       <img src="{{ page.image | relative_url }}" alt="Article Image" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     </div>
   {% endif %}
 
   <!-- Text Section -->
-  <div style="flex: 1 1 100%; max-width: 100%; text-align: justify;">
+  <div style="text-align: justify;">
     {{ content }}
 
     {% if page.citation and page.paperurl and page.slidesurl %}
