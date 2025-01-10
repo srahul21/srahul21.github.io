@@ -19,8 +19,9 @@ author_profile: true
 
   {% if category[0] == "manuscripts" %}
     <!-- Group Journal Articles by Year -->
-    {% assign journal_articles_by_year = site.publications | where: "category", "manuscripts" | group_by: "year" %}
-    {% for group in journal_articles_by_year reversed %}
+    {% assign sorted_publications = site.publications | where: "category", "manuscripts" | sort: "year" | reverse %}
+    {% assign journal_articles_by_year = sorted_publications | group_by: "year" %}
+    {% for group in journal_articles_by_year %}
       <h3>{{ group.name }}</h3> <!-- Year Heading -->
       <ul>
         {% for post in group.items %}
