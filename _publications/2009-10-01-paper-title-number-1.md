@@ -1,5 +1,5 @@
 ---
-title: "S. Kotha, M. F. J. Mabesoone, D. Srideep, R. Sahu, S. K. Reddy, K. V. Rao, Supramolecular depolymerization in the mixture of two poor solvents: mechanistic insights and modulation of supramolecular polymerization of ionic Π‐Systems. Angewandte Chemie 133, 5519–5526 (2020)."
+title: "S. Kotha, M. F. J. Mabesoone, D. Srideep, R. Sahu, S. K. Reddy, K. V. Rao, Supramolecular depolymerization in the mixture of two poor solvents: mechanistic insights and modulation of supramolecular polymerization of ionic Π‐Systems. <i>Angewandte Chemie</i> 133, 5519–5526 (2020)."
 display_title: "Supramolecular depolymerization in the mixture of two poor solvents: mechanistic insights and modulation of supramolecular polymerization of ionic Π‐Systems."
 collection: publications
 category: manuscripts
@@ -7,7 +7,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 year: 2021
 image: '/images/ange202011977-fig-0001-m.jpg' # Path to the article image
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-venue: 'Journal 1'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202011977'
 ---
 
