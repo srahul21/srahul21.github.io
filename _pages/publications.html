@@ -11,26 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
+<!-- Group manuscripts (Journal Articles) by year -->
+{% assign journal_articles_by_year = site.publications | where: "category", "manuscripts" | group_by: "year" %}
+{% for group in journal_articles_by_year reversed %}
+  <h2>{{ group.name }}</h2> <!-- Year Heading -->
+  <ul>
+    {% for post in group.items %}
+      <li>
+        <a href="{{ post.permalink }}">{{ post.venue }}</a> <!-- Journal Title Linked to Detail Page -->
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 
