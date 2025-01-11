@@ -7,8 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-Education
+Mechanistic insights into supramolecular polymerization and crowded biological systems through molecular dynamics
 ======
-* Ph.D in Computational Modeling, IIT Kharagpur, West Bengal, India
-* M.Sc. in Mathematics, Pondicherry University, Puducheey, India
-* B.Sc. in Mathematics, Burdwan University, West Bengal, India
+*
