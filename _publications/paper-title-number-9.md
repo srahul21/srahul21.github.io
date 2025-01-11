@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper-title-number-9
 year: 2024
-image: '/images/figure5.png' # Path to the article image
+image: '/images/figure5.jpg' # Path to the article image
 paperurl: 'https://www.nature.com/articles/s41467-024-55107-y'
 ---
 
