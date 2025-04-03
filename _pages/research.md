@@ -9,8 +9,8 @@ author_profile: false
 
 Research Interests
 ======
-* Development of machine learning-based force fields and coarse-grained modeling.
+* Machine learning accelerated discovery of environmental friendly functional materials
+* Development of machine learning-based force fields for functional materials.
 * Hierarchical modeling of supramolecular materials for biological applications.
 * Non-covalent interactions and solvent effects.
-* Understanding rare events in complex systems.
-* Examining macromolecular crowding effects in biological systems.
+* Rare events in complex systems.
