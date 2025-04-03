@@ -9,7 +9,7 @@ redirect_from:
 
 Currently  I am a Research Associate (RA) at [JNCASR](https://www.jncasr.ac.in/home) (Bengaluru, India), working under [Prof. Balasubramanian Sundaram](https://www.jncasr.ac.in/faculty/bala) on porous materials. I finished my PhD under the supervision of [Dr. Sandeep Kumar Reddy](https://sites.google.com/view/skreddy/), [IIT Kharagpur](https://www.iitkgp.ac.in/) (West Bengal, India). My Ph. D. work focuses on studying complex molecular mechanisms of crucial processes involved in one-dimensional supramolecular system, crowded biological system, and ionic liquids on metal surface. To achieve this, I employ all-atom molecular dynamics simulation, electronic structure calculations, stochastic method, and enhanced sampling.
 
-Few glimpses from my origin...
+Glimpses from my hometown...
 ======
 
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
