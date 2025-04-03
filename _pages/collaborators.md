@@ -2,7 +2,7 @@
 layout: publication
 title: "Collaborator"
 permalink: /collaborators/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
