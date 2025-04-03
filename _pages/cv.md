@@ -39,13 +39,13 @@ Scientific Expertise
 
 Technical Skills
 ======
-* Programming:  FORTRAN, Python, Bash Scripting
-* Packages
+* **Programming:**  FORTRAN, Python, Bash Scripting
+* **Packages**
   * MD & MC: GROMACS, LAMMPS, RASPA
-  * DFT Tools: GAUSSIAN, CP2K, GAUSSVIEW, DFTB+, xTB
+  * DFT: GAUSSIAN, CP2K, DFTB+, xTB
   * MSM: PyEMMA, Deeptime
-  * Others: PLUMED, MDAnalysis, VMD, AmberTools
-* High Performance Computing(HPC)
+  * Others: PLUMED, MDAnalysis, VMD, AmberTools, GAUSSVIEW
+* **High Performance Computing(HPC)**
   * Linux/Unix
   * Practical experience in installing and troubleshooting computational software on clusters
 
