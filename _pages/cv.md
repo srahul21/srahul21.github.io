@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Molecular Modeling, Centre for Computational and Data Sciences, IIT Kharagpur, West Bengal, India
-  * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety
+  * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety.
 * M.Sc. in Mathematics, Pondicherry University, Puducherry, India
+  * Courses: Linear Algebra, Real Analysis, Numerical Methods, Differential Equations, Fluid Mechanics, Integral Transforms, Graph Theory
 * B.Sc. in Mathematics, University of Burdwan, West Bengal, India
 
 Research experience
