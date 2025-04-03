@@ -13,9 +13,9 @@ Education
 ======
 * Ph.D in Computational Molecular Modeling, Centre for Computational and Data Sciences, IIT Kharagpur, West Bengal, India
   * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety.
-* M.Sc. in Mathematics, Pondicherry University, Puducherry, India
+* M.Sc. in Mathematics, [Pondicherry University](https://www.pondiuni.edu.in/), Puducherry, India
   * Courses: Linear Algebra, Real Analysis, Numerical Methods, Differential Equations, Fluid Mechanics, Integral Transforms, Graph Theory
-* B.Sc. in Mathematics, University of Burdwan, West Bengal, India
+* B.Sc. in Mathematics, [The University of Burdwan](https://www.buruniv.ac.in/Demo/index_bucc.php), West Bengal, India
 
 Research experience
 ======
@@ -48,5 +48,4 @@ Technical Skills
 * High Performance Computing(HPC)
   * Linux/Unix
   * Practical experience in installing and troubleshooting computational software on clusters
-======
-* Currently signed in to 43 different slack teams
+
