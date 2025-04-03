@@ -1,5 +1,5 @@
 ---
-layout: archieve
+layout: publication
 title: "Collaborator"
 permalink: /collaborators/
 author_profile: true
