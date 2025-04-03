@@ -11,36 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Modeling, IIT Kharagpur, West Bengal, India
-* M.Sc. in Mathematics, Pondicherry University, Puducheey, India
-* B.Sc. in Mathematics, Burdwan University, West Bengal, India
+* Ph.D in Computational Molecular Modeling, Centre for Computational and Data Sciences, IIT Kharagpur, West Bengal, India
+  * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety
+* M.Sc. in Mathematics, Pondicherry University, Puducherry, India
+* B.Sc. in Mathematics, University of Burdwan, West Bengal, India
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Jan, 2025 - now: Research Associate at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+  * Project: Data-science Approach in Atmospheric Water Harvesting Through Porous Materials.
+  * Supervisor: Prof. Balasubramanian Sundaram, Chemistry and Physics of Materials Unit, JNCASR, Bengalore
+* Jan, 2024 - Jan, 2025: Teaching Assistant at Indian Institute of Technology Kharagpur (IIT Kharagpur)
+  * Supervisor: Dr. Sandeep Kumar Reddy, Centre for Computational and Data Sciences, IIT Kharagpur
+* Jan, 2021 - Jan, 2024: Senior Research Fellow at Indian Institute of Technology Kharagpur (IIT Kharagpur)
+  * Supervisor: Dr. Sandeep Kumar Reddy, Centre for Computational and Data Sciences, IIT Kharagpur
+* Jan, 2019 - Jan, 2021: Junior Research Fellow at Indian Institute of Technology Kharagpur (IIT Kharagpur)
+  * Supervisor: Dr. Sandeep Kumar Reddy, Centre for Computational and Data Sciences, IIT Kharagpur
+ 
+Scientific Expertise
 ======
-* Molecular Dynamics
-* Electronic structure calculation
-* Markov state modeling
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Classical molecular dynamics (MD), Ab Initio Molecular Dynamics, Monte Carlo (MC) simulations
+* Data-science techniques
+* Enhanced sampling techniques: Umbrella sampling, Metadynamics, Replica exchange
+* Markov state modeling (MSM)
+* Electronic structure calculations
+
+Technical Skills
+======
+* Programming:  FORTRAN, Python, Bash Scripting
+* Packages
+  * MD & MC: GROMACS, LAMMPS, RASPA
+  * DFT Tools: GAUSSIAN, CP2K, GAUSSVIEW, DFTB+, xTB
+  * MSM: PyEMMA, Deeptime
+  * Others: PLUMED, MDAnalysis, VMD, AmberTools
+* High Performance Computing(HPC)
+  * Linux/Unix
+  * Practical experience in installing and troubleshooting computational software on clusters
 
 Publications
 ======
