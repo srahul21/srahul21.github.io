@@ -25,21 +25,21 @@ Glimpses from my hometown...
     <div class="carousel-item active">
       <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Slide 1" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Blue is beautiful</h5>
+        <h5>bluish sky at dusk</h5>
         <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/IMG_20250109_153012_804.jpg" class="d-block w-100" alt="Slide 2" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Green soothes the soul</h5>
+        <h5>rainbow</h5>
         <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/IMG_20250109_153016_588.jpg" class="d-block w-100" alt="Slide 3" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Scattering light</h5>
+        <h5>delighted sight at dusk</h5>
         <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
