@@ -25,8 +25,9 @@ author:
   name             : "Rahul Sahu"
   pronouns         : # example: "she/her"  
   bio              : "Molecular modeling, Mechine learning"
+  degree           : "PhD from IIT Kharagpur, India" 
   location         : "Bengaluru, India"
-  employer         : "IIT Kharagpur"
+  employer         : "Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)"
   uri              : # URL
   email            : "rahulsahu.2013@gmail.com" 
 
@@ -44,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "srahul21"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
