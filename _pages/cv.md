@@ -29,7 +29,7 @@ Research experience
 * Jan, 2019 - Jan, 2021: Junior Research Fellow at Indian Institute of Technology Kharagpur (IIT Kharagpur)
   * Supervisor: Dr. Sandeep Kumar Reddy, Centre for Computational and Data Sciences, IIT Kharagpur
  
-Scientific Expertise
+Scientific expertise
 ======
 * Classical molecular dynamics (MD), Ab Initio Molecular Dynamics, Monte Carlo (MC) simulations
 * Data-science techniques
@@ -37,7 +37,7 @@ Scientific Expertise
 * Markov state modeling (MSM)
 * Electronic structure calculations
 
-Technical Skills
+Technical skills
 ======
 * **Programming:**  FORTRAN, Python, Bash Scripting
 * **Packages**
@@ -45,7 +45,7 @@ Technical Skills
   * DFT: GAUSSIAN, CP2K, DFTB+, xTB
   * MSM: PyEMMA, Deeptime
   * Others: PLUMED, MDAnalysis, VMD, AmberTools, GAUSSVIEW
-* **High Performance Computing(HPC)**
+* **High Performance Computing (HPC)**
   * Linux/Unix
   * Practical experience in installing and troubleshooting computational software on clusters
 
