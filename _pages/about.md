@@ -25,7 +25,7 @@ Glimpses from my hometown...
     <div class="carousel-item active">
       <img src="/images/IMG_20250109_153007_451.jpg" class="d-block w-100" alt="Slide 1" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>bluish sky at dusk</h5>
+        <h5> </h5>
         <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
