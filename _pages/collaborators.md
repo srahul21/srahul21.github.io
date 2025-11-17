@@ -13,3 +13,4 @@ Worked with:
 * [Dr. Divya Nayar](https://sites.google.com/prod/view/divyanayar/group-members/divya-nayar), Department of Materials Science and Engineering, IIT Delhi
 * [Dr. Chaitanya Sharma Yamijala](https://sites.google.com/view/yamijala-group/home), Department of Chemistry, IIT Madras
 * [Dr. Chidambar Kulkarni](https://sites.google.com/iitb.ac.in/cklab/home), Department of Chemistry, IIT Bombay
+* [Prof. Tapas K Maji](https://faculty.jncasr.ac.in/tmaji/), Chemistry and Physics of Materials Unit, JNCASR, Bengaluru
