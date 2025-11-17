@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-Currently  I am a Research Associate (RA) at <a href="https://example.com/my_page">https://example.com/my_page</a> [JNCASR](https://www.jncasr.ac.in/home) (Bengaluru, India), working under [Prof. Balasubramanian Sundaram](https://www.jncasr.ac.in/faculty/bala) on ion transport and porous materials. My basic training is in Mathematics with a Ph.D. in Computational Physical Chemistry (supervisor [Dr. Sandeep Kumar Reddy](https://sites.google.com/view/skreddy/)) from Centre for Computational and Data Sciences, [IIT Kharagpur](https://www.iitkgp.ac.in/) (West Bengal, India). My research focuses on molecular modeling of physical phenomena using molecular simulations, quantum calculations, and machine learning.
+Currently  I am a Research Associate (RA) at <a href="https://example.com/my_page">https://example.com/my_page</a> <a href="https://www.jncasr.ac.in/home">JNCASR</a> (Bengaluru, India), working under <a href="https://www.jncasr.ac.in/faculty/bala">Prof. Balasubramanian Sundaram</a> on ion transport and porous materials. My basic training is in Mathematics with a Ph.D. in Computational Physical Chemistry (supervisor <a href="https://sites.google.com/view/skreddy/">Dr. Sandeep Kumar Reddy</a>) from Centre for Computational and Data Sciences, <a href="https://www.iitkgp.ac.in/">IIT Kharagpur</a> (West Bengal, India). My research focuses on molecular modeling of physical phenomena using molecular simulations, quantum calculations, and machine learning.
 </p>
 While I am not working, I like reading books, cooking, spending time with family, and friends.
 
