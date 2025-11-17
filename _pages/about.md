@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="justify">
 Currently  I am a Research Associate (RA) at [JNCASR](https://www.jncasr.ac.in/home) (Bengaluru, India), working under [Prof. Balasubramanian Sundaram](https://www.jncasr.ac.in/faculty/bala) on ion transport and porous materials. My basic training is in Mathematics with a Ph.D. in Computational Physical Chemistry (supervisor [Dr. Sandeep Kumar Reddy](https://sites.google.com/view/skreddy/)) from Centre for Computational and Data Sciences, [IIT Kharagpur](https://www.iitkgp.ac.in/) (West Bengal, India). My research focuses on molecular modeling of physical phenomena using molecular simulations, quantum calculations, and machine learning.
-
-While I am not working, I like reading books, cooking, spending time with family, and friends...
+</p>
+While I am not working, I like reading books, cooking, spending time with family, and friends.
 
 > "_I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy._" By Kabiguru Rabindranath Thakur
 
