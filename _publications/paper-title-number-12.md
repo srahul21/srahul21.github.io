@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-12
 year: 2025
-image: '/images/d5sc03874j-f6_hi-res.gif' # Path to the article image
+image: '/images/d5sc03874j-f6_hi-res.jpeg' # Path to the article image
 paperurl: 'https://doi.org/10.1039/D5SC03874J'
 ---
 
