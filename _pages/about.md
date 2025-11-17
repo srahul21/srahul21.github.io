@@ -22,6 +22,11 @@ Glimpses from my hometown...
     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2" aria-label="Slide 8"></button>
   </div>
 
   <!-- Images for the Carousel -->
@@ -50,36 +55,36 @@ Glimpses from my hometown...
     <div class="carousel-item">
       <img src="/images/20250926_053007.jpeg" class="d-block w-100" alt="Slide 4" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>rainbow</h5>
-        <p>Mukutmanipur Damp, West Bengal</p>
+        <h5></h5>
+        <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/20250928_164809.jpeg" class="d-block w-100" alt="Slide 5" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>rainbow</h5>
-        <p>Mukutmanipur Damp, West Bengal</p>
+        <h5></h5>
+        <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/20250929_060147.jpeg" class="d-block w-100" alt="Slide 6" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>rainbow</h5>
-        <p>Mukutmanipur Damp, West Bengal</p>
+        <h5></h5>
+        <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/20250929_055717.jpeg" class="d-block w-100" alt="Slide 7" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>rainbow</h5>
-        <p>Mukutmanipur Damp, West Bengal</p>
+        <h5></h5>
+        <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/images/20250929_103725.jpeg" class="d-block w-100" alt="Slide 8" style="height: 500px; object-fit: cover;">
       <div class="carousel-caption d-none d-md-block">
-        <h5>rainbow</h5>
-        <p>Mukutmanipur Damp, West Bengal</p>
+        <h5></h5>
+        <p>Mukutmanipur, West Bengal</p>
       </div>
     </div>
   </div>
