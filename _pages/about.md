@@ -11,7 +11,7 @@ Currently  I am a Research Associate (RA) at <a href="https://www.jncasr.ac.in/h
 </p>
 While I am not working, I like reading books, cooking, spending time with family, and friends.
 
-> "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy." By Kabiguru Rabindranath Thakur
+> "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy." by Kabiguru Rabindranath Thakur
 
 Glimpses from my hometown...
 ======
