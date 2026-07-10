@@ -11,17 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Physical Chemistry, Centre for Computational and Data Sciences, IIT Kharagpur, West Bengal, India
+* Ph.D in Computational Modeling and Simulation, Centre for Computational and Data Sciences, IIT Kharagpur, West Bengal, India
   * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety.
 * M.Sc. in Mathematics, [Pondicherry University](https://www.pondiuni.edu.in/), Puducherry, India
   * Courses: Linear Algebra, Real Analysis, Numerical Methods, Differential Equations, Fluid Mechanics, Integral Transforms, Graph Theory
-* B.Sc. in Mathematics, [The University of Burdwan](https://www.buruniv.ac.in/Demo/index_bucc.php), West Bengal, India
+* B.Sc.(Honours) in Mathematics, [The University of Burdwan](https://www.buruniv.ac.in/Demo/index_bucc.php), West Bengal, India
 
 Research experience
 ======
-* Jan, 2025 - now: Research Associate at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+* April, 2026 - Present: Institute PostDoctoral Fellow, IIT Kanpur
+  * Project: Computational Investigation of MOF as inhibitor in Ice Recrystallization
+  * Mentor: Prof. Jayant Kumar Singh, Department of Chemical Engineering, IIT Kanpur
+* Jan, 2026 - Mar, 2026: Project PostDoctoral Fellow, IIT Kanpur
+  * Project: Computational Investigation of MOF as inhibitor in Ice Recrystallization
+  * Mentor: Prof. Jayant Kumar Singh, Department of Chemical Engineering, IIT Kanpur
+* Jan, 2025 - Dec, 2025: Research Associate at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
   * Project: Data-science Approach in Atmospheric Water Harvesting Through Porous Materials.
-  * Supervisor: Prof. Balasubramanian Sundaram, Chemistry and Physics of Materials Unit, JNCASR, Bengalore
+  * Mentor: Prof. Balasubramanian Sundaram, Chemistry and Physics of Materials Unit, JNCASR, Bengalore
 * Jan, 2024 - Jan, 2025: Teaching Assistant at Indian Institute of Technology Kharagpur (IIT Kharagpur)
   * Supervisor: Dr. Sandeep Kumar Reddy, Centre for Computational and Data Sciences, IIT Kharagpur
 * Jan, 2021 - Jan, 2024: Senior Research Fellow at Indian Institute of Technology Kharagpur (IIT Kharagpur)
@@ -33,6 +39,7 @@ Scientific expertise
 ======
 * Classical molecular dynamics (MD), Ab Initio Molecular Dynamics, Monte Carlo (MC) simulations
 * Data-science techniques
+* Machine-learninf potential
 * Enhanced sampling techniques: Umbrella sampling, Metadynamics, Replica exchange
 * Markov state modeling (MSM)
 * Electronic structure calculations
