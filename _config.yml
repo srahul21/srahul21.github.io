@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "my-image.jpg"
   name             : "Rahul Sahu, Postdoctoral Fellow"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Computational Modeling and Simulations"
   degree           : "PhD from IIT Kharagpur, India" 
   location         : "Kanpur, India"
