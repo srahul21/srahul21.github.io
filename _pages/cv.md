@@ -15,7 +15,7 @@ Education
   * Thesis Title: Mechanistic Insights into Supramolecular Polymerization: Non-covalent Interactions, Solvent Influence, and Impact of Moiety.
 * M.Sc. (2014 - 2016) in Mathematics, [Pondicherry University](https://www.pondiuni.edu.in/), Puducherry, India
   * Courses: Linear Algebra, Real Analysis, Numerical Methods, Differential Equations, Fluid Mechanics, Integral Transforms, Graph Theory
-* B.Sc.(Honours) (2009 - 2012) in Mathematics, [The University of Burdwan](https://www.buruniv.ac.in/Demo/index_bucc.php), West Bengal, India
+* B.Sc.(Honours) (2009 - 2012) in Mathematics, Bankura Sammilani College, [The University of Burdwan](https://www.buruniv.ac.in/Demo/index_bucc.php), West Bengal, India
 
 Post-Ph.D. Research experience
 ======
