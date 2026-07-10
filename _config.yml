@@ -23,13 +23,13 @@ author:
   # Biographic information
   avatar           : "my-image.jpg"
   name             : "Rahul Sahu, Postdoctoral Fellow"
-  pronouns         : # example: "she/her"  
-  bio              : "Molecular modeling, Machine learning"
+  pronouns         : "he/his"  
+  bio              : "Computational Modeling and Simulations"
   degree           : "PhD from IIT Kharagpur, India" 
   location         : "Kanpur, India"
   employer         : "IIT Kanpur"
   uri              : # URL
-  email            : "rahulsahu@iitk.ac.in"
+  email            : "rahulsahu.2013@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
