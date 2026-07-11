@@ -33,7 +33,7 @@ Scientific expertise
 ======
 * Classical molecular dynamics (MD), Ab Initio Molecular Dynamics, Monte Carlo (MC) simulations
 * Data-science techniques
-* Machine-learninf potential
+* Machine-learning potential
 * Enhanced sampling techniques: Umbrella sampling, Metadynamics, Replica exchange
 * Markov state modeling (MSM)
 * Electronic structure calculations
